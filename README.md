@@ -4,6 +4,11 @@
 - 😄 Pronouns: he/him 👨‍🦲
 - 📫 You can reach me via email 📧 wderocco@bu.edu or LinkedIn https://www.linkedin.com/in/william-derocco/
 
+
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=git,js,html,css,python,java,c,react,vite, django,firebase,netlify,heroku,figma,tensorflow)](https://skillicons.dev)
+
+
 <!---
 wderocco8/wderocco8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
