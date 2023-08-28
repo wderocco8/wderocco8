@@ -5,7 +5,7 @@
 - 📫 You can reach me via email 📧 wderocco@bu.edu or LinkedIn https://www.linkedin.com/in/william-derocco/
 
 
-### My Skills
+### 🔧 My Skills
 [![My Skills](https://skillicons.dev/icons?i=git,js,html,css,python,java,react,vite,django,firebase,figma,tensorflow)](https://skillicons.dev)
 
 
