@@ -1,12 +1,12 @@
 ### 👋 Hi there, I’m William De Rocco 🪨 (pronounced deh-roh-ko, but often misprounounced deh-rock-o)
 - 👀 I’m interested in exploring new programming skills and applications at the intersection of tech, AI/ML, and economics
-- 🌱 I’m currently learning frontend + backend frameworks and languages (react.js, JavaScript, Express, MongoDB...) through Hackathons and personal projects (check them out below!!!)
+- 🌱 I’m currently learning frontend + backend frameworks, languages, and microservices (MERN, TypeScript, Next.js, AWS...) through Hackathons and personal projects (check them out below!!!)
 - 😄 Pronouns: he/him 👨‍🦲
 - 📫 You can reach me via email 📧 wderocco@bu.edu or LinkedIn https://www.linkedin.com/in/william-derocco/
 
 
 ### 🔧 My Skills
-[![My Skills](https://skillicons.dev/icons?i=git,js,html,css,python,java,react,vite,django,firebase,figma,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,python,java,react,nextjs,vite,mongodb,django,aws,heroku,firebase,figma,vim,tensorflow,linux)](https://skillicons.dev)
 
 
 <!---
